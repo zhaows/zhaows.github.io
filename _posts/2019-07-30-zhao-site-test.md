@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "zhao, Horrible Cop, Launches Site"
+title: "Zhao, Horrible Cop, Launches Site"
 date: 2019-07-30
 ---
 
